@@ -8,7 +8,6 @@
 	I am an outgoing person who finds pleasure in interacting with others and working as part of a team. I am fully engaged in the work process and strive to see it through to completion. My interests include hiking expeditions, design, and video editing. Worked in a design studio.
 
 ## My skills
-----
 
 <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/">
   <img src="http://yunusemreozenoglu.com/wp-content/uploads/2021/12/c-icon.png" alt="C#" width="90" height="50">
