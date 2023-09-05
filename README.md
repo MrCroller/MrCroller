@@ -1,5 +1,10 @@
-### Hi, I'm Pavel 👋
+
+<div align="center">
+  <img width="100%" src="https://github.com/MrCroller/MrCroller/blob/master/Asset/TitleMc.png" alt="cover" />
+</div>
+
 ---
+
 - 🧑‍💻 Worked in IT industry related to business process automation
 - ⚔️ I'm in the process of creating a game with my team in the tactical RPG genre
 - 🌱 I am currently studying DOTS and ESC architecture
