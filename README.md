@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="100%" src="https://github.com/MrCroller/MrCroller/blob/master/Asset/TitleMc.png" alt="cover" />
+  <img width="100%" src="https://github.com/MrCroller/MrCroller/blob/master/Asset/Title.png" alt="cover" />
 </div>
 
 ---
