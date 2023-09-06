@@ -3,12 +3,7 @@
   <img width="100%" src="https://github.com/MrCroller/MrCroller/blob/master/Asset/TitleMc.png" alt="cover" />
 </div>
 
----
 
-<details> 
-<summary>  
-	More stuff about me 
-</summary>
 
 ## Quick overview
 
@@ -19,9 +14,9 @@
 - ⚡ A little about myself: 
 	I am an outgoing person who finds pleasure in interacting with others and working as part of a team. I am fully engaged in the work process and strive to see it through to completion.
 
-<img align="right" alt="rabbit" width="350" src="https://usagif.com/wp-content/uploads/gifs/cute-bunny-gif-27.gif" />
-
 ## Skills
+
+<img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="300" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 [![C#](https://img.shields.io/badge/C%23-p?style=for-the-badge&color=%23682178&link=https%3A%2F%2Flearn.microsoft.com%2Fru-ru%2Fdotnet%2Fcsharp%2F)](https://learn.microsoft.com/ru-ru/dotnet/csharp/)
 [![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity&link=https%3A%2F%2Funity.com)](https://unity.com)
@@ -41,9 +36,10 @@
 [![Miro](https://img.shields.io/badge/miro-black?style=for-the-badge&logo=miro&logoColor=black&color=yellow&link=https%3A%2F%2Fmiro.com)](https://miro.com)
 [![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-black?style=for-the-badge&logo=davinciresolve&color=%231D3347&link=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDaVinci_Resolve)](https://en.wikipedia.org/wiki/DaVinci_Resolve)
 
----
 
-</details>
+<p align="center">
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 <p align="center">
     <b>📫 How to reach me: 
