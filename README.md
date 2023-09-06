@@ -10,6 +10,7 @@
 	More stuff about me 
 </summary>
 
+## Quick overview
 
 - 🧑‍💻 Worked in IT industry related to business process automation
 - ⚔️ I'm in the process of creating a game with my team in the tactical RPG genre
@@ -39,6 +40,8 @@
 [![Photoshop](https://img.shields.io/badge/photoshop-black?style=for-the-badge&logo=adobephotoshop&logoColor=white&color=%23051D30&link=https%3A%2F%2Fwww.adobe.com%2Fru%2Fproducts%2Fphotoshop.html)](https://www.adobe.com/products/photoshop.html)
 [![Miro](https://img.shields.io/badge/miro-black?style=for-the-badge&logo=miro&logoColor=black&color=yellow&link=https%3A%2F%2Fmiro.com)](https://miro.com)
 [![DaVinci Resolve](https://img.shields.io/badge/davinci_resolve-black?style=for-the-badge&logo=davinciresolve&color=%231D3347&link=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDaVinci_Resolve)](https://en.wikipedia.org/wiki/DaVinci_Resolve)
+
+---
 
 </details>
 
