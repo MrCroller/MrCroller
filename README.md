@@ -42,6 +42,10 @@
 		<img src="https://img.shields.io/badge/%2Fregex%2F-black?style=for-the-badge&labelColor=red&color=%231F2938&link=https://en.wikipedia.org/wiki/Regular_expression"
                   alt="html5"/> 
         </a>
+	<a href="https://git-scm.com/" target="_blank"> 
+		<img src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git"
+                  alt="html5"/> 
+        </a>
 </p>
 
 <h4 align="center">Other: :paintbrush: graphics design, 💪 calisthenics, 🏕️ survival, 🏂 snowboarding</h4>
@@ -54,6 +58,14 @@
         </a>
 	<a href="https://code.visualstudio.com/" target="_blank"> 
 		<img src="https://img.shields.io/badge/VS_Code-p?style=for-the-badge&logo=visualstudiocode&logoColor=%2340ABF1&color=%23196393"
+                  alt="html5"/> 
+        </a>	
+	<a href="https://www.sourcetreeapp.com/" target="_blank"> 
+		<img src="https://img.shields.io/badge/gitkraken-black?style=for-the-badge&logo=gitkraken&color=%230D1017"
+                  alt="html5"/> 
+        </a>
+	<a href="https://www.gitkraken.com/" target="_blank"> 
+		<img src="https://img.shields.io/badge/sourcetree-black?style=for-the-badge&logo=sourcetree&color=%230052CC"
                   alt="html5"/> 
         </a>
 </p>
