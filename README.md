@@ -38,7 +38,7 @@
 		<img src="https://img.shields.io/badge/sql-black?style=for-the-badge&color=%230F6A90&link=https://en.wikipedia.org/wiki/SQL"
                   alt="html5"/> 
         </a>
-	<a href="[https://en.wikipedia.org/wiki/SQL](https://en.wikipedia.org/wiki/Regular_expression)" target="_blank"> 
+	<a href="https://en.wikipedia.org/wiki/Regular_expression" target="_blank"> 
 		<img src="https://img.shields.io/badge/%2Fregex%2F-black?style=for-the-badge&labelColor=red&color=%231F2938&link=https://en.wikipedia.org/wiki/Regular_expression"
                   alt="html5"/> 
         </a>
