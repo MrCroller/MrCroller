@@ -1,5 +1,6 @@
 
 <div align="center">
+	<a href="https://github.com/MrCroller"> 
   <img width="100%" src="https://github.com/MrCroller/MrCroller/blob/master/Asset/TitleFire.png" alt="cover" />
 </div>
 
@@ -7,7 +8,7 @@
 
 ## Quick overview
 
-<img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="180" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<a href="https://www.youtube.com/watch?v=X9apAXRl6oo"><img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="180" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 - 🧑‍💻 Worked in IT industry related to business process automation
 - ⚔️ I'm in the process of creating a game with my team in the tactical RPG genre
@@ -17,7 +18,7 @@
 	I am an outgoing person who finds pleasure in interacting with others and working as part of a team. I am fully engaged in the work process and strive to see it through to completion.
 
 
-<a href="https://youtu.be/X9apAXRl6oo?si=lS4efAQIVmZR_9Ta"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+---
 
 <h3 align="center">Skills</h3>
 <p align="center">
