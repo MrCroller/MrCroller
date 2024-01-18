@@ -11,7 +11,8 @@
 <a href="https://www.youtube.com/watch?v=X9apAXRl6oo"><img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="180" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 - 🧑‍💻 Worked in IT industry related to business process automation
-- 🏆 Won with his team at a game jam. ([Gamega Jam](https://itch.io/jam/gamega-jam))
+- 🏆 Won with his team at a game jam. **Red Night**: ([Gamega Jam](https://itch.io/jam/gamega-jam))
+- 📺 My game has been streamed by people with an audience of half a million. ([Twitch](https://www.twitch.tv/videos/2027275439?t=6h50m28s))
 - 🌱 I am currently studying DOTS and ESC architecture
 - ⚖️ I want to find a balance between doing what I love and making money.
 - ⚡ A little about myself: 
