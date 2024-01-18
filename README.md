@@ -11,9 +11,9 @@
 <a href="https://www.youtube.com/watch?v=X9apAXRl6oo"><img align="right" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="180" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 - 🧑‍💻 Worked in IT industry related to business process automation
-- ⚔️ I'm in the process of creating a game with my team in the tactical RPG genre
+- 🏆 Won with his team at a game jam. ([Gamega Jam](https://itch.io/jam/gamega-jam))
 - 🌱 I am currently studying DOTS and ESC architecture
-- 👯 I am looking for an opportunity to collaborate on new Gamedev projects
+- ⚖️ I want to find a balance between doing what I love and making money.
 - ⚡ A little about myself: 
 	I am an outgoing person who finds pleasure in interacting with others and working as part of a team. I am fully engaged in the work process and strive to see it through to completion.
 
