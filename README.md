@@ -18,7 +18,7 @@
 - ⚡ A little about myself: 
 	I am an outgoing person who finds pleasure in interacting with others and working as part of a team. I am fully engaged in the work process and strive to see it through to completion.
 
-
+[![wakatime](https://wakatime.com/badge/user/849a8092-ea77-4d0d-ac43-13af859e7e62.svg)](https://wakatime.com/@849a8092-ea77-4d0d-ac43-13af859e7e62)
 ---
 
 <h3 align="center">Skills</h3>
