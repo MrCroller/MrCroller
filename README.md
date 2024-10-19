@@ -65,7 +65,10 @@
 		<img src="https://img.shields.io/badge/PHOTON-011428?style=for-the-badge&logo=photon"
 	         alt="html5"/> 
         </a>
-	
+	<a href="https://assetstore.unity.com/packages/tools/behavior-ai/dialogue-system-for-unity-11672" target="_blank"> 
+		<img src="https://img.shields.io/badge/Dialogue%20System-black?style=for-the-badge&logo=Pixel%20Crushers"
+	         alt="html5"/> 
+        </a>
 </p>
 
 <h4 align="center">Other: :paintbrush: graphics design, 💪 calisthenics, 🏕️ survival, 🏂 snowboarding</h4>
