@@ -13,7 +13,7 @@
 - 🧑‍💻 Worked in IT industry related to business process automation
 - 🏆 Won with his team at a game jam. **Red Night**: ([Gamega Jam](https://itch.io/jam/gamega-jam))
 - 📺 My game has been streamed by people with an audience of half a million. ([Twitch](https://clips.twitch.tv/BelovedBravePicklesRiPepperonis-OHjuj_jyDU5Uf7We))
-- 🌱 I am currently studying DOTS and ESC architecture
+- 🌱 I am currently studying ESC architecture
 - ⚖️ I want to find a balance between doing what I love and making money.
 - ⚡ A little about myself: 
 	I am an outgoing person who finds pleasure in interacting with others and working as part of a team. I am fully engaged in the work process and strive to see it through to completion.
